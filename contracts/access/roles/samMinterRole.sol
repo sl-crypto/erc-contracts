@@ -1,6 +1,9 @@
+pragma solidity ^0.5.0;
+
 // import "../../GSN/Context.sol";
 // import "../Roles.sol";
 
+import "https://github.com/sl-crypto/erc-contracts/blob/master/contracts/GSN/Context.sol";
 import "https://github.com/sl-crypto/erc-contracts/blob/master/contracts/access/Roles.sol";
 
 contract MinterRole is Context {
