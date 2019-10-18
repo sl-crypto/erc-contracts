@@ -1,5 +1,7 @@
 pragma solidity ^0.5.0;
 
+import "https://github.com/sl-crypto/erc-contracts/blob/master/contracts/token/ERC20/IERC20.sol";
+
 /**
  * @dev Optional functions from the ERC20 standard.
  */
