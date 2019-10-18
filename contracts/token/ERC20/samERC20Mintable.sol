@@ -1,6 +1,5 @@
-pragma solidity ^0.5.0;
 
-import "https://github.com/sl-crypto/erc-contracts/blob/master/contracts/access/roles/MinterRole.sol";
+import "https://github.com/sl-crypto/erc-contracts/blob/master/contracts/access/roles/samMinterRole.sol";
 
 /**
  * @dev Extension of {ERC20} that adds a set of accounts with the {MinterRole},
