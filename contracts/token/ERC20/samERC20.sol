@@ -3,7 +3,7 @@ pragma solidity ^0.5.0;
 import "https://github.com/sl-crypto/erc-contracts/blob/master/contracts/GSN/Context.sol";
 import "https://github.com/sl-crypto/erc-contracts/blob/master/contracts/token/ERC20/IERC20.sol";
 import "https://github.com/sl-crypto/erc-contracts/blob/master/contracts/math/SafeMath.sol";
-import "https://github.com/sl-crypto/erc-contracts/blob/master/contracts/token/ERC20/samERC20Detailed.sol";
+// import "https://github.com/sl-crypto/erc-contracts/blob/master/contracts/token/ERC20/samERC20Detailed.sol";
 import "https://github.com/sl-crypto/erc-contracts/blob/master/contracts/token/ERC20/samERC20Mintable.sol";
 
 /**
